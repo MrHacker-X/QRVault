@@ -7,7 +7,7 @@ _CONFIGS: dict = {
         "tool": "qrvault",
         "name": "QRVault",
         "subtitle": "QR Code Toolkit",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "description": "QR action to perform (default: text)",
         "homepage": "https://github.com/MrHacker-X/qrvault",
         "author": "MrHacker-X",
