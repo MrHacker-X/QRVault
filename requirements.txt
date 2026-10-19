@@ -1,0 +1,4 @@
+qrcode[pil]
+pillow
+requests
+rich
